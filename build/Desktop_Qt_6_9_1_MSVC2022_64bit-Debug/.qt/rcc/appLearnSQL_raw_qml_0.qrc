@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/LearnSQL/">
-    <file alias="Main.qml">C:/Users/91891/OneDrive/Pictures/Qt_Projects/LearnSQL/Main.qml</file>
-    <file alias="CustomTextField.qml">C:/Users/91891/OneDrive/Pictures/Qt_Projects/LearnSQL/CustomTextField.qml</file>
-    <file alias="CustomButton.qml">C:/Users/91891/OneDrive/Pictures/Qt_Projects/LearnSQL/CustomButton.qml</file>
-  </qresource>
-</RCC>
-

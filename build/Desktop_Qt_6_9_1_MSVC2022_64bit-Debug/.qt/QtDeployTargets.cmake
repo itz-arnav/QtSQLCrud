@@ -1,3 +1,0 @@
-set(__QT_DEPLOY_TARGET_appLearnSQL_FILE C:/Users/91891/OneDrive/Pictures/Qt_Projects/LearnSQL/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/appLearnSQL.exe)
-set(__QT_DEPLOY_TARGET_appLearnSQL_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_appLearnSQL_RUNTIME_DLLS C:/Qt/6.9.1/msvc2022_64/bin/Qt6Quickd.dll;C:/Qt/6.9.1/msvc2022_64/bin/Qt6Sqld.dll;C:/Qt/6.9.1/msvc2022_64/bin/Qt6QmlMetad.dll;C:/Qt/6.9.1/msvc2022_64/bin/Qt6QmlWorkerScriptd.dll;C:/Qt/6.9.1/msvc2022_64/bin/Qt6QmlModelsd.dll;C:/Qt/6.9.1/msvc2022_64/bin/Qt6Qmld.dll;C:/Qt/6.9.1/msvc2022_64/bin/Qt6Networkd.dll;C:/Qt/6.9.1/msvc2022_64/bin/Qt6OpenGLd.dll;C:/Qt/6.9.1/msvc2022_64/bin/Qt6Guid.dll;C:/Qt/6.9.1/msvc2022_64/bin/Qt6Cored.dll)
