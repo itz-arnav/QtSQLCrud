@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d1678ec14239033bee46.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LearnSQL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-713e355530773ca03296.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-3704f05401241b06302a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8634c332a69292340fbf.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-bf2c02e6c62545dd7080.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-3c03365e3757c4ffd502.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLearnSQL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLearnSQL-Debug-0ddf8ea617cbbfb44265.json",
+					"name" : "appLearnSQL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLearnSQL_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLearnSQL_autogen-Debug-36481911d82fdda47708.json",
+					"name" : "appLearnSQL_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLearnSQL_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLearnSQL_autogen_timestamp_deps-Debug-0faec12f20aa5bb48e8a.json",
+					"name" : "appLearnSQL_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLearnSQL_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLearnSQL_copy_qml-Debug-511ef02129346cdc2bbe.json",
+					"name" : "appLearnSQL_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLearnSQL_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLearnSQL_copy_res-Debug-b726478d947ae17c42e9.json",
+					"name" : "appLearnSQL_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLearnSQL_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLearnSQL_qmlimportscan-Debug-7adbff92abdbb906e26a.json",
+					"name" : "appLearnSQL_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLearnSQL_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLearnSQL_qmllint-Debug-bb89583e0576ab6730b5.json",
+					"name" : "appLearnSQL_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLearnSQL_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLearnSQL_qmllint_json-Debug-3dfb6709fcb2281143dc.json",
+					"name" : "appLearnSQL_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLearnSQL_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLearnSQL_qmllint_module-Debug-cec4a500f443e7e1c1e1.json",
+					"name" : "appLearnSQL_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLearnSQL_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLearnSQL_qmltyperegistration-Debug-df13e002a6f02069875f.json",
+					"name" : "appLearnSQL_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appLearnSQL_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appLearnSQL_aotstats_target-Debug-3a53646718c771e61946.json",
+					"name" : "module_appLearnSQL_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/91891/OneDrive/Pictures/Qt_Projects/LearnSQL/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/91891/OneDrive/Pictures/Qt_Projects/LearnSQL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

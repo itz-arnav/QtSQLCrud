@@ -1,0 +1,7 @@
+
+set(target "appLearnSQL")
+set(working_dir "C:/Users/91891/OneDrive/Pictures/Qt_Projects/LearnSQL")
+set(src_and_dest_list
+
+)
+set(timestamp_file "C:/Users/91891/OneDrive/Pictures/Qt_Projects/LearnSQL/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/.qt/appLearnSQL_res.txt")

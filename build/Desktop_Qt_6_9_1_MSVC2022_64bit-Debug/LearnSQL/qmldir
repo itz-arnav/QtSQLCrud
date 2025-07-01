@@ -1,0 +1,7 @@
+module LearnSQL
+typeinfo appLearnSQL.qmltypes
+prefer :/qt/qml/LearnSQL/
+Main 1.0 Main.qml
+CustomTextField 1.0 CustomTextField.qml
+CustomButton 1.0 CustomButton.qml
+
